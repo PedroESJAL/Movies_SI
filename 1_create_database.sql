@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS Movies_si;
+CREATE DATABASE Movies_si;
+USE Movies_si;

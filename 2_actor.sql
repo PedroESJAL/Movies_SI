@@ -4,7 +4,7 @@ CREATE TABLE actors(
     id INT UNSIGNED NOT NULL,
     fname VARCHAR(20) NOT NULL,
     lname VARCHAR(20) NOT NULL,
-    gender VARCHAR(1) NOT NULL
+    gender VARCHAR(2) NOT NULL
 );
 
  ALTER TABLE actors
